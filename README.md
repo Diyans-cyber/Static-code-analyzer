@@ -25,5 +25,17 @@ The analyzer scans the code for:
 - ⚡ Lightweight and runs locally (no external API required)
 
 ---
+✅ Future Improvements
 
-## 📂 Project Structure
+Support for multiple programming languages (C, C++, Java, etc.)
+Integration with CI/CD pipelines (GitHub Actions, Jenkins)
+More advanced metrics (Cyclomatic complexity, code duplication)
+Export report to HTML / JSON format
+
+📌 Conclusion
+This project demonstrates how a Static Code Analyzer can help developers:
+
+Improve code quality
+Maintain consistency
+Catch bugs early
+Enforce best practices
